@@ -8,4 +8,7 @@ html {
 .meme-figure {
     width: 99%;
     max-width: 800px;
+    /*Reset*/
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
