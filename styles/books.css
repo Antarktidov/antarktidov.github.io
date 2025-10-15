@@ -1,0 +1,14 @@
+html {
+    color-scheme: dark;
+}
+.meme-img {
+    width: 100%;
+    height: auto;
+}
+.meme-figure {
+    width: 99%;
+    max-width: 800px;
+}
+figcaption {
+    color: 	#D0D0D0;
+}
